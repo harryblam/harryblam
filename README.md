@@ -10,6 +10,6 @@
 Feel free to contact me on:
 
 <a href="https://www.linkedin.com/in/harrybloom/"><img src="https://img.shields.io/badge/-Harry%20Bloom-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@harrybloom18"><img src="https://img.shields.io/badge/Medium-Harry%20Bloom-white?style=flat&logo=Medium&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/1532838/harry-bloom"><img src="https://img.shields.io/badge/Stack Overflow-Harry%20Bloom-orange?style=flat&logo=stackoverflow&logoColor=orange"/></a>
+<a href="https://medium.com/@harrybloom18"><img src="https://img.shields.io/badge/Medium-HB-white?style=flat&logo=Medium&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/1532838/harry-bloom"><img src="https://img.shields.io/badge/Stack Overflow-harryblam-orange?style=flat&logo=stackoverflow&logoColor=orange"/></a>
 
