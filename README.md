@@ -2,7 +2,7 @@
 - I am **passionate about building beautiful mobile experiences**  
 - My comfort zone **is in native iOS & Android development**  
 - I'm building my experience **in full-stack development and Flutter**  
-- I’m currently working **on the [Horizon App](https://www.horizonapp.uk/) in my spare time, helping people live more sustainably.**   
+- I’m currently working **on [Horizon App](https://www.horizonapp.uk/) in my spare time, helping people live more sustainably.**   
 - I’m looking to collaborate **on projects which help with social good or climate change.**     
 
 Feel free to contact me on:  
