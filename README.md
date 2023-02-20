@@ -7,9 +7,9 @@
 - I’m looking to collaborate **on projects which help with social good or climate change.**     
 
 **My most recent work (in chronological order):**   
-- [Horizon App](https://apps.apple.com/gb/app/horizon-the-zero-waste-app/id1523077366?platform=iphone) where I was co-creator and working full-stack.
-- [Wevat Tax Refund](https://apps.apple.com/gb/app/wevat-tax-refund/id1147269914?platform=iphone) where I led the led development as Head of Engineering.
-- [Metro Bank](https://apps.apple.com/gb/app/metro-bank/id1175525592) worked on a large team in the development of the banks new mobile app.
+- **[Horizon App](https://apps.apple.com/gb/app/horizon-the-zero-waste-app/id1523077366?platform=iphone)** where I was co-creator and working full-stack.
+- **[Wevat Tax Refund](https://apps.apple.com/gb/app/wevat-tax-refund/id1147269914?platform=iphone)** where I led the led development as Head of Engineering.
+- **[Metro Bank](https://apps.apple.com/gb/app/metro-bank/id1175525592)** where I worked on a large team in the development of the banks new mobile app.
 
 
 **Feel free to contact me on:**    
