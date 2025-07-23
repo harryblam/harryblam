@@ -3,7 +3,7 @@
 - I am **passionate about building beautiful mobile experiences**  
 - My comfort zone **is in native iOS & Android development**  
 - I'm building my experience **in full-stack development and Flutter**  
-- I’m a senior mobile engineer at **[Mindstone](https://www.mindstone.com/), enabling people to build learning habits.**
+- I’m a senior full stack engineer at **[Mindstone](https://www.mindstone.com/), enabling people to build learning habits.**
 - In my spare time I'm also working **on [Horizon App](https://www.horizonapp.uk/), helping people live more sustainably.**   
 - I’m looking to collaborate **on projects which help with social good or climate change.**     
 
